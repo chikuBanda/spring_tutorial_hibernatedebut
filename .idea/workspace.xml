@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="656d2ce4-5b90-44fc-bb79-4109594bc330" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chiku/jdbc/demo/CreateMultipleStudentsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chiku/jdbc/demo/CreateStudentDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chiku/jdbc/entities/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hibernate-tutorial/com/chiku/jdbc/demo/QueryStudentsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hibernate-tutorial/com/chiku/jdbc/demo/ReadStudentDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chiku/jdbc/demo/QueryStudentsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chiku/jdbc/demo/ReadStudentDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +45,18 @@
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/lib" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chiku.jdbc.demo" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.createMultipleStudentsDemo">
+  <component name="RunManager" selected="Application.QueryStudentDemo">
+    <configuration name="QueryStudentDemo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.chiku.jdbc.demo.QueryStudentsDemo" />
+      <module name="hibernate-tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="application" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.chiku.jdbc.TestJdbc" />
       <module name="hibernate-tutorial" />
@@ -54,16 +64,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="createMultipleStudentsDemo" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.chiku.jdbc.demo.CreateMultipleStudentsDemo" />
-      <module name="hibernate-tutorial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.application" />
-      <item itemvalue="Application.createMultipleStudentsDemo" />
+      <item itemvalue="Application.QueryStudentDemo" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
