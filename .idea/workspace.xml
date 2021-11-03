@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="656d2ce4-5b90-44fc-bb79-4109594bc330" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/hibernate-tutorial/com/chiku/jdbc/demo/QueryStudentsDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/hibernate-tutorial/com/chiku/jdbc/demo/ReadStudentDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chiku/jdbc/demo/QueryStudentsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chiku/jdbc/demo/ReadStudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chiku/jdbc/demo/UpdateStudentDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +46,7 @@
       <recent name="com.chiku.jdbc.demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QueryStudentDemo">
+  <component name="RunManager" selected="Application.application">
     <configuration name="QueryStudentDemo" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.chiku.jdbc.demo.QueryStudentsDemo" />
       <module name="hibernate-tutorial" />
@@ -58,7 +55,7 @@
       </method>
     </configuration>
     <configuration name="application" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.chiku.jdbc.TestJdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.chiku.jdbc.demo.UpdateStudentDemo" />
       <module name="hibernate-tutorial" />
       <method v="2">
         <option name="Make" enabled="true" />
